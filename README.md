@@ -1,11 +1,11 @@
 <h1 aligh="center">Contento</h1>
 
-## 💻 Projeto
-Contento é um site onde os usuários podem fazer avaliações, deixando notas e comentários, sobre filmes e livros.
+## 💻 Project
+Contento is a site where users can to assess, leaving notes and comments about movies and books. 
 
-O projeto surgiu através do vídeo da Attekita sobre [ideias de projetos](https://www.youtube.com/watch?v=z2kNoS8jfMg).
+The project borned because the video from Attekita about [project ideas](https://www.youtube.com/watch?v=z2kNoS8jfMg).
 
-Apesar do site [The Movie Database](https://www.themoviedb.org/) fornecer informações de filmes através de uma api, neste projeto será criada uma api própria, usando o site como referência.
+Although the site [The Movie Database](https://www.themoviedb.org/) supply informations about movies through a api, in this project will be created a own api, using the site as reference.
 
 ## 🔖 Layout
 
@@ -19,10 +19,10 @@ Apesar do site [The Movie Database](https://www.themoviedb.org/) fornecer inform
 - Design Patterns
 
 ## :page_facing_up: Migrations
-Para executar as migrations é necessário ter o [entity framework core](https://learn.microsoft.com/en-us/ef/core/get-started/overview/install) instalado. Para instalá-lo de forma global execute o comando abaixo no prompt
+To execute the migrations is necessary install the [entity framework core](https://learn.microsoft.com/en-us/ef/core/get-started/overview/install). To install globally execute the command below in your prompt:
 
 `dotnet tool install --global dotnet -ef`
 
-Para criar uma migration execute `dotnet ef migrations add <NomeDaMigration>`
+To criate a migration execute `dotnet ef migrations add <NomeDaMigration>`
 
-Para aplicar a migration no banco de dados execute `dotnet ef database update`
+To apply the migration in the database execute `dotnet ef database update`
