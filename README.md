@@ -9,7 +9,7 @@ Although the site [The Movie Database](https://www.themoviedb.org/) supply infor
 
 ## 🔖 Layout
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologies and Tools
 
 - C#
 - .Net
